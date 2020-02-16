@@ -1,0 +1,51 @@
+*{
+padding: 0px;
+margin: 0px; 
+}
+body{
+background-image:url(airplane-2037961_1920.jpg);
+background-size:cover;    
+}
+.nav ul li {
+display: inline-block;
+margin: 0px 40px;
+padding: 20px 30px;
+left: 0px;
+top: 20px;
+border-bottom:2px solid #fff  ; 
+height:10px;   
+}
+.nav a{
+text-decoration: none;
+color:tan;
+font-family: sans-serif;
+padding: 70px;    
+}
+h1{
+color:#fff;
+transform: translate(17%,90px);
+font-size: 78px;
+font-family: 'Oswald', sans-serif;
+letter-spacing: 4px;   
+}
+p{
+color: #fff;
+transform: translate(19%,110px);
+font-size: 30px;
+background: rgb(0,0,0,0.6);
+width:1000px;
+border-radius: 16px;
+height: 130px;
+}
+.bod input{
+color:#fff;
+background:none;
+transform: translate(350px,120px);
+font-size: 40px;
+border-radius:10px;   
+}
+.bod input[value="SIGHN UP"]{
+color: #fff;
+transform: translate(620px,120px);
+background:none;
+}
